@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Mickael Cullamat<br><br>`BSIT Student` • `Developer` • `Cybersecurity Enthusiast` <br><br>**
+# 👋 Hi, I'm Mickael Cullamat<br><br>`BSIT Student` • `Developer` • `Cybersecurity Enthusiast` <br><br>
 
 
 ## 🌐 Socials:

@@ -1,250 +1,28 @@
-# 👋 Hi, I'm Mickael Cullamat
+# 💫 About Me:
+# 👋 Hi, I'm Mickael Cullamat<br><br>### `BSIT Student` • `Developer` • `Cybersecurity Enthusiast` • `Poet / Rapper`<br><br>> **"Building things, breaking things, learning how they work, and turning ideas into reality."**<br><br>I'm **Mickael Hadjie M. Cullamat**, but you can call me **Mick**.<br>I'm a BSIT student passionate about software development, cybersecurity, and creating projects that solve real problems.<br><br>I'm currently learning and building with **Python, Java, JavaScript, HTML/CSS, React Native, PostgreSQL, and more**.<br><br>My long-term goal is to become a **Senior Developer specializing in Cybersecurity** while continuing to grow as a creative through poetry and rap.<br><br>---<br><br>## 🚀 About Me<br><br>* 🎓 **BSIT Student** at Pampanga State Agricultural University<br>* 💻 Interested in **Software Development & Cybersecurity**<br>* 🔐 Future goal: **Senior Developer specializing in Cybersecurity**<br>* 🧠 Currently improving my programming and problem-solving skills<br>* 📱 Building Android applications<br>* 🎮 Building game projects<br>* 🌐 Interested in web development and deployment<br>* 🎤 Passionate about **poetry, spoken word, and rap**<br>* 🎵 Music lover: Hip-hop, R&B, Lo-fi, cinematic & trap<br>* 🌱 Always learning something new<br><br>---<br><br># 🛠️ Skills & Technologies<br><br>### 💻 Programming Languages<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)<br><br>### 📱 App Development<br><br>![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)<br>![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)<br>![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)<br><br>### 🌐 Web & Backend<br><br>![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)<br><br>### 🗄️ Database & ORM<br><br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)<br>![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)<br><br>### ☁️ Deployment & Hosting<br><br>![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)<br>![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)<br>![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge\&logo=replit\&logoColor=white)<br>![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge\&logo=railway\&logoColor=white)<br><br>### 🔧 Tools<br><br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)<br>![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)<br><br>---<br><br># 📌 Featured Projects<br><br>## ⏰ MATINS — Bible Verse Alarm<br><br>**MATINS — Bible Verse Alarm** is an Android alarm application designed to help users start their morning with God's Word.<br><br>Instead of simply waking up with a normal alarm, MATINS displays a **Bible verse when the alarm rings**.<br><br>### ✨ Features<br><br>* 📖 Bible verse alarm<br>* ⏰ Native Android alarm behavior<br>* 🔔 Custom alarm sounds<br>* 📳 Vibration controls<br>* 🔊 Gradual volume<br>* 🎨 Multiple themes<br>* 🕐 Multiple clock styles<br>* ✍️ Custom verse fonts<br>* 🌙 Lock-screen alarm interface<br>* 📵 Offline verse fallback<br>* 🌐 Daily verse refresh when internet is available<br>* 💾 Local verse caching<br>* ⚡ Optimized alarm scheduling<br><br>### 🧰 Built With<br><br>`React Native` `Expo` `JavaScript` `Android` `Kotlin` `AsyncStorage` `AlarmManager`<br><br>🔗 **Repository:** [Add Repository Link]<br><br>---<br><br>## 🎮 Poke Battle League<br><br>**Poke Battle League** is a Pokémon-inspired battle game project focused on progression, combat, Pokémon upgrades, and an arcade-style experience.<br><br>The project explores game mechanics such as:<br><br>* ⚔️ Pokémon battles<br>* 🐾 Pokémon progression<br>* 🪙 Coin-based upgrades<br>* 🧑‍🏫 Trainer progression<br>* ❤️ Healing skills<br>* ⚡ Mana management<br>* 🎯 Battle mechanics<br>* 🏆 League / progression systems<br>* 🖥️ Arcade-style interface<br><br>### 🧰 Project Technologies<br><br>`JavaScript` `HTML` `CSS` `Game Development`<br><br>🔗 **Repository:** [Add Repository Link]<br><br>---<br><br>## 🖥️ Micky Projects<br><br>**Micky Projects** is my collection of programming projects and experiments.<br><br>Some of my earlier projects started as **Python console applications** and were later transformed into web applications using **Streamlit**.<br><br>### 🧰 Technologies<br><br>`Python` `Streamlit` `Web Development`<br><br>🔗 **Portfolio:** [Add Portfolio Link]<br><br>---<br><br># 🧪 Things I'm Currently Exploring<br><br>```text<br>Cybersecurity<br>    ↓<br>Secure Software Development<br>    ↓<br>Web & Application Security<br>    ↓<br>Backend Development<br>    ↓<br>Full-Stack Development<br>    ↓<br>Advanced Programming<br>```<br><br>I'm especially interested in understanding **how systems work internally**, how applications can be secured, and how developers can build software with security in mind from the beginning.<br><br>---<br><br># 📚 Currently Learning<br><br>* 🐍 Advanced Python<br>* ☕ Java<br>* ⚡ JavaScript<br>* 🌐 Web Development<br>* 📱 Android Development<br>* 🗄️ Databases<br>* 🔐 Cybersecurity<br>* 🧠 Software Architecture<br>* 🐙 Git & GitHub<br>* ☁️ Deployment & Cloud Platforms<br><br>---<br><br># 🎨 Beyond Coding<br><br>Programming isn't the only thing I enjoy.<br><br>### 🎤 Poetry & Rap<br><br>I'm also passionate about:<br><br>* ✍️ Poetry<br>* 🎙️ Spoken poetry<br>* 🎵 Rap<br>* 🎧 Hip-hop<br>* 🎼 Writing lyrics and concepts<br><br>I enjoy combining **technology and creativity** and believe programming can be another form of creative expression.<br><br>---<br><br># 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"><br></p><br><br>---<br><br># 🌐 Connect With Me<br><br><p align="left"><br><br><a href="https://github.com/YOUR_USERNAME"><br><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"><br></a><br><br><a href="YOUR_FACEBOOK_LINK"><br><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"><br></a><br><br><a href="YOUR_EMAIL_OR_OTHER_LINK"><br><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"><br></a><br><br></p><br><br>---<br><br># 🤝 Let's Connect<br><br>I'm always interested in meeting other developers, learning new technologies, collaborating on projects, and exchanging ideas.<br><br>If you have a project idea, want to collaborate, or simply want to talk about programming, feel free to reach out.<br><br>---<br><br>## 💡 My Developer Philosophy<br><br>> **Learn. Build. Break. Fix. Repeat.**<br><br>Every project is an opportunity to learn something new.<br><br>I'm still growing as a developer, but every line of code, every bug, and every project brings me one step closer to the developer I want to become.<br><br>---<br><br><p align="center"><br>  <b>Thanks for visiting my profile! 👋</b><br></p><br><br><p align="center"><br>  <i>Building the future, one project at a time.</i><br></p><br>
 
-### `BSIT Student` • `Developer` • `Cybersecurity Enthusiast` • `Poet / Rapper`
 
-> **"Building things, breaking things, learning how they work, and turning ideas into reality."**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meckmeckmick) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mick_e_maws) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mick_emawsss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mickaelcullamat@gmail.com) 
 
-I'm **Mickael Hadjie M. Cullamat**, but you can call me **Mick**.
-I'm a BSIT student passionate about software development, cybersecurity, and creating projects that solve real problems.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mikmik0101&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mikmik0101&theme=maroongold&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mikmik0101&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm currently learning and building with **Python, Java, JavaScript, HTML/CSS, React Native, PostgreSQL, and more**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mikmik0101&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
-My long-term goal is to become a **Senior Developer specializing in Cybersecurity** while continuing to grow as a creative through poetry and rap.
-
----
-
-## 🚀 About Me
-
-* 🎓 **BSIT Student** at Pampanga State Agricultural University
-* 💻 Interested in **Software Development & Cybersecurity**
-* 🔐 Future goal: **Senior Developer specializing in Cybersecurity**
-* 🧠 Currently improving my programming and problem-solving skills
-* 📱 Building Android applications
-* 🎮 Building game projects
-* 🌐 Interested in web development and deployment
-* 🎤 Passionate about **poetry, spoken word, and rap**
-* 🎵 Music lover: Hip-hop, R&B, Lo-fi, cinematic & trap
-* 🌱 Always learning something new
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mikmik0101&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mikmik0101&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🛠️ Skills & Technologies
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/mikmik01) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/mickaelhadjie) 
 
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### 📱 App Development
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-
-### 🌐 Web & Backend
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🗄️ Database & ORM
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-
-### ☁️ Deployment & Hosting
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge\&logo=replit\&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge\&logo=railway\&logoColor=white)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
-
----
-
-# 📌 Featured Projects
-
-## ⏰ MATINS — Bible Verse Alarm
-
-**MATINS — Bible Verse Alarm** is an Android alarm application designed to help users start their morning with God's Word.
-
-Instead of simply waking up with a normal alarm, MATINS displays a **Bible verse when the alarm rings**.
-
-### ✨ Features
-
-* 📖 Bible verse alarm
-* ⏰ Native Android alarm behavior
-* 🔔 Custom alarm sounds
-* 📳 Vibration controls
-* 🔊 Gradual volume
-* 🎨 Multiple themes
-* 🕐 Multiple clock styles
-* ✍️ Custom verse fonts
-* 🌙 Lock-screen alarm interface
-* 📵 Offline verse fallback
-* 🌐 Daily verse refresh when internet is available
-* 💾 Local verse caching
-* ⚡ Optimized alarm scheduling
-
-### 🧰 Built With
-
-`React Native` `Expo` `JavaScript` `Android` `Kotlin` `AsyncStorage` `AlarmManager`
-
-🔗 **Repository:** [Add Repository Link]
-
----
-
-## 🎮 Poke Battle League
-
-**Poke Battle League** is a Pokémon-inspired battle game project focused on progression, combat, Pokémon upgrades, and an arcade-style experience.
-
-The project explores game mechanics such as:
-
-* ⚔️ Pokémon battles
-* 🐾 Pokémon progression
-* 🪙 Coin-based upgrades
-* 🧑‍🏫 Trainer progression
-* ❤️ Healing skills
-* ⚡ Mana management
-* 🎯 Battle mechanics
-* 🏆 League / progression systems
-* 🖥️ Arcade-style interface
-
-### 🧰 Project Technologies
-
-`JavaScript` `HTML` `CSS` `Game Development`
-
-🔗 **Repository:** [Add Repository Link]
-
----
-
-## 🖥️ Micky Projects
-
-**Micky Projects** is my collection of programming projects and experiments.
-
-Some of my earlier projects started as **Python console applications** and were later transformed into web applications using **Streamlit**.
-
-### 🧰 Technologies
-
-`Python` `Streamlit` `Web Development`
-
-🔗 **Portfolio:** [Add Portfolio Link]
-
----
-
-# 🧪 Things I'm Currently Exploring
-
-```text
-Cybersecurity
-    ↓
-Secure Software Development
-    ↓
-Web & Application Security
-    ↓
-Backend Development
-    ↓
-Full-Stack Development
-    ↓
-Advanced Programming
-```
-
-I'm especially interested in understanding **how systems work internally**, how applications can be secured, and how developers can build software with security in mind from the beginning.
-
----
-
-# 📚 Currently Learning
-
-* 🐍 Advanced Python
-* ☕ Java
-* ⚡ JavaScript
-* 🌐 Web Development
-* 📱 Android Development
-* 🗄️ Databases
-* 🔐 Cybersecurity
-* 🧠 Software Architecture
-* 🐙 Git & GitHub
-* ☁️ Deployment & Cloud Platforms
-
----
-
-# 🎨 Beyond Coding
-
-Programming isn't the only thing I enjoy.
-
-### 🎤 Poetry & Rap
-
-I'm also passionate about:
-
-* ✍️ Poetry
-* 🎙️ Spoken poetry
-* 🎵 Rap
-* 🎧 Hip-hop
-* 🎼 Writing lyrics and concepts
-
-I enjoy combining **technology and creativity** and believe programming can be another form of creative expression.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170">
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="YOUR_FACEBOOK_LINK">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="YOUR_EMAIL_OR_OTHER_LINK">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in meeting other developers, learning new technologies, collaborating on projects, and exchanging ideas.
-
-If you have a project idea, want to collaborate, or simply want to talk about programming, feel free to reach out.
-
----
-
-## 💡 My Developer Philosophy
-
-> **Learn. Build. Break. Fix. Repeat.**
-
-Every project is an opportunity to learn something new.
-
-I'm still growing as a developer, but every line of code, every bug, and every project brings me one step closer to the developer I want to become.
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
-</p>
-
-<p align="center">
-  <i>Building the future, one project at a time.</i>
-</p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
